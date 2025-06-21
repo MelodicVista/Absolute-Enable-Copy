@@ -1,4 +1,4 @@
-# Absolute Enable Right Click & Copy
+# Activate Enable Right Click & Copy
 
 This Chrome extension, designed with the latest Chrome updates Manifest V3, allows you to Enable Context Menu, Allow Copy and Right-click functionalities on websites that have disabled these commands. Additionally, it allows users to copy text from images using the OCR function.
 
