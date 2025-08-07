@@ -1,4 +1,4 @@
-# Absolute Enable Right Click & Copy
+# Activate Enable Right Click & Copy
 
 This Chrome extension, designed with the latest Chrome updates Manifest V3, allows you to Enable Context Menu, Allow Copy and Right-click functionalities on websites that have disabled these commands. Additionally, it allows users to copy text from images using the OCR function.
 
@@ -393,7 +393,7 @@ After creating the popup.js file, it’s time to create the popup.html file wher
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-	<title>Enable Right Click & Copy</title>
+	<title>Activate Enable Right Click & Copy</title>
 	<link rel="stylesheet" type="text/css" href="/css/popup.css">
 </head>
 <body>
@@ -699,7 +699,7 @@ After creating an Options.html file, paste this html boilerplate code:
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-	<title>Enable Right Click & Copy</title>
+	<title>Activate Enable Right Click & Copy</title>
 	<link rel="stylesheet" type="text/css" href="/css/popup.css">
 </head>
 <body>
